@@ -1,0 +1,46 @@
+int arr[5] ; 
+
+application 
+
+student 
+        char name[30]; 
+        int maths;
+        int sci;
+        int eng;  
+        float perc;
+        char grade;
+
+
+structure ---> collection of different types of data type. 
+
+
+struct -> keyword 
+
+
+struct student{
+
+        char name[30]; 
+        int maths;
+        int sci;
+        int eng;  
+        float perc;
+        char grade;
+
+};
+
+
+struct student s; 
+
+dot operator -> 
+
+
+s.name 
+s.maths 
+
+
+
+
+
+
+
+
