@@ -37,8 +37,25 @@ dot operator ->
 s.name 
 s.maths 
 
+--------------------------------------------------------
+
+amazon -> products -> 
+3 products ->
 
 
+productName 
+category 
+price 
+qty 
+
+
+
+player 
+        name 
+        age 
+        specialization
+        totalRuns 
+        totalWickets 
 
 
 
