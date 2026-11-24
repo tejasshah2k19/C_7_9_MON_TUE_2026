@@ -46,7 +46,13 @@ int main()
             for(int i=0;i<expCounter;i++){
                 printf("\n%-10s %-10s %-5d %-10s %-10s",exp[i].title,exp[i].category,exp[i].amount,exp[i].type,exp[i].date);
             }
-            
+        case 3:
+           // print category expenses 
+            //enter category name 
+            //food
+            //list all food expenses 
+            //25000/- 
+
             break;
         case 0:
             exit(0);
